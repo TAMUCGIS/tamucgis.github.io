@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are the TAMUC GIS and Data Science Club.
 
 ### More Information
 
