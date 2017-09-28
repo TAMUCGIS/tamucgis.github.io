@@ -6,7 +6,7 @@
 name: TAMUC GIS and Data Science Club
 
 # Short bio or description (displayed in the header)
-description: We are the TAMUC GIS and Data Science Club
+description: We are the TAMUC GIS and Data Science Club, here is where we have our projects and other cool tidbits, stay tuned!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,9 +19,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook:TAMUC.GISANDDATA
   flickr:
-  github: 
+  github: TAMUCGIS
   instagram:
   linkedin:
   pinterest:
