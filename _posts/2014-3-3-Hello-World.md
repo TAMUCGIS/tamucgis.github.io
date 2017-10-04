@@ -3,7 +3,7 @@ layout: post
 title: A little history...
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We are a dedicated group of students at Texas A&M University - Commerce, whos purpose is to fullfill student led GIS related projects.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
