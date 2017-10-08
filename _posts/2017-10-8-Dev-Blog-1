@@ -1,0 +1,15 @@
+---
+layout: post
+title: Dev Blog #1
+---
+
+Howdy! 
+
+We are testing out our development blog, besides working on this site (yay Markdown!) we are also working on a project
+for the Art Dept. We will show some photos soon! 
+
+A little technical background: this project is an experiment in a parallel embedded real time system.
+We have a client server architecture, with the client code written in Erlang, and the server side code written in C. 
+There will be a future post on the importance of rewriting code, to a newer language.
+
+Stay tuned!
