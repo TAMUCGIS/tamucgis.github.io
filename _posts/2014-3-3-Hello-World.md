@@ -3,8 +3,7 @@ layout: post
 title: A little history...
 ---
 
-We are a dedicated group of students at Texas A&M University - Commerce, whos purpose is to fullfill student led GIS related projects.
+We are a dedicated group of students at Texas A&M University - Commerce, whos purpose is to fulfill student led GIS and Data Science related projects.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+A little history: 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
